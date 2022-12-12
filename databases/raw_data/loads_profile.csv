@@ -1,0 +1,64 @@
+section,x_cg,total_mass,f_axial,f_lateral
+Base drag,0,,526.0359873,
+Engine,225,7,-9199.284013,103.005
+Firebolt,,7,,
+Fin drag,548.7,,-7491.807345,1810.481668
+Fincan,700,7,,
+Fins,,3,,
+Cylinder,,4,,
+Engine bay,700,20.9,,
+Main Valve Fuel,,2,78.48,
+Main Valve LOx,,3,117.72,
+Small valve LOX,,2.4,94.176,
+Small valve ETH,,1.6,141.264,
+Fittings,,1.5,176.58,
+Venturi,,0.4,109.872,
+Structures,,5,337.464,
+Tubing and hoses,,5,372.78,
+Engine control unit,,2,188.352,
+Fincan + engine bay,700,27.9,-6397.011345,2221.030168
+Ethanol,1325,39,-4866.651345,2794.915168
+Tank,,37,1640.232,3339.370168
+Liquid,,0,-6397.011345,3339.370168
+Skirt/Attachments,,2,-4788.171345,3368.800168
+Lower intertank,1950,2,-4788.171345,3398.230168
+Structures,,1,1679.472,3412.945168
+Feed,,1,-6357.771345,3427.660168
+Electronics,,,-4788.171345,3427.660168
+LOx,2620,12.6,-4293.747345,3613.069168
+Tank,,10.6,2095.416,3769.048168
+Liquid,,0,-6357.771345,3769.048168
+Skirt/Attachments,,2,-4709.691345,3798.478168
+Tube aero,3006.247834,,-3201.975179,4136.251434
+Upper intertank,3290,3,-3084.255179,4180.396434
+Structures,,1,2056.176,4195.111434
+Feed,,1,-6397.011345,4209.826434
+Electronics,,1,-4748.931345,4224.541434
+Pressurant,3737.089227,40.8,-1483.263179,4736.623434
+Tank,,37,3508.056,5281.078434
+He,,1.8,-6326.379345,5307.565434
+Skirt/Attachments,,2,-4670.451345,5336.995434
+Payload,4184.178454,5,-1287.063179,5410.570434
+Structures,,2.5,3606.156,5447.357934
+TBD,,2.5,-6228.279345,5484.145434
+Avionics,4534.178454,14.8,-706.3111788,5701.927434
+Flight Computer Support,,1,-1247.823179,
+Black box (2x),,0.8,3637.548,
+Flight computer,,1.5,-6169.419345,
+BMS (2x),,1,-667.0711788,
+Batteries,,1,-1208.583179,
+Antennas,,2,3716.028,
+Cameras,,2,-6090.939345,
+Wires,,4,-510.1111788,
+Sensors,,1.5,-1149.723179,
+Recovery,5134,8.6,,
+Chute+Suspension,,0.8,-478.7191788,
+Deployment,,0.8,-1118.331179,
+Main chute+Suspension,,3,117.72,
+Deployment,,1,-439.4791788,
+Shell,,2,-1039.851179,
+Load structure,,1,156.96,
+Nosecone,5134.178454,3,,
+Structures,,2,-961.3711788,
+Separation system,,1,196.2,
+Recovery+Nosecone,5134.178454,11.6,-251.1271788,5872.621434
