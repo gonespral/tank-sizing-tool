@@ -6,6 +6,8 @@
     Universal Tank Sizing Tool
 </h1>
 
+See full writeup at https://gonespral.github.io/projects/tanks.
+
 ## About the Tool
 The Universal Tank Sizing Tool is a comprehensive Python-based engineering solution designed to automate the preliminary design and sizing of the **Stratos V rocket propellant tanks**. Acting as a critical bridge between system requirements and detailed design, this software enables:
 
